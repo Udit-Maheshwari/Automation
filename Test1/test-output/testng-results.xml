@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T21:52:27 IST" name="Suite" finished-at="2022-08-23T21:52:52 IST" duration-ms="25132">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T21:52:27 IST" name="Test" finished-at="2022-08-23T21:52:52 IST" duration-ms="25132">
+      <class name="DemoTest.Test1.Parallel_method_2">
+        <test-method signature="verifylogin()[pri:0, instance:DemoTest.Test1.Parallel_method_2@f0da945]" started-at="2022-08-23T21:52:27 IST" name="verifylogin" finished-at="2022-08-23T21:52:43 IST" duration-ms="16735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+      </class> <!-- DemoTest.Test1.Parallel_method_2 -->
+      <class name="DemoTest.Test1.Parallel_test_demo">
+        <test-method signature="verifylogo()[pri:0, instance:DemoTest.Test1.Parallel_test_demo@4310d43]" started-at="2022-08-23T21:52:27 IST" name="verifylogo" finished-at="2022-08-23T21:52:41 IST" duration-ms="13912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogo -->
+        <test-method signature="verifytitle()[pri:0, instance:DemoTest.Test1.Parallel_test_demo@4310d43]" started-at="2022-08-23T21:52:41 IST" name="verifytitle" finished-at="2022-08-23T21:52:52 IST" duration-ms="11116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- DemoTest.Test1.Parallel_test_demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
