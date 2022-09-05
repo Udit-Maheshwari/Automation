@@ -5,7 +5,11 @@ public class Add_New_File
 	public Add_New_File()
 	{
 		System.out.println("Hello Udit");
-		// TODO Auto-generated constructor stub
+	}
+	
+	public void getname()
+	{
+		System.out.println("This is getname method");
 	}
 
 }
